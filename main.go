@@ -1,10 +1,10 @@
 package main
 
 import (
-	"automaton/dfa"
 	"bufio"
 	"flag"
 	"fmt"
+	"github.com/marcelo-r/automaton/dfa"
 	"os"
 	"strings"
 )
